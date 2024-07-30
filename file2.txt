@@ -1,1 +1,2 @@
-insert content from dev2
+xzx delete content from dev2
+update content from xzx
