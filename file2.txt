@@ -1,3 +1,4 @@
 xzx delete content from dev2
 update content from xzx
 xzx在0731对之前文件的修改，用来测试git commit -a
+xzx在0731对file2的修改，用来测试rebase
